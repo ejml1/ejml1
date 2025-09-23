@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Ethan 👋
 
-<!--
-**ejml1/ejml1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👨‍🏫 Computer Science Teaching Fellow at Chinese International School 🇭🇰
+- 🎓 BSc Computer Science from the University of St Andrews 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- 📊 Interest in Data Science
 
-Here are some ideas to get you started:
+## Current Focus
+- 👨‍🏫 Teaching Computer Science fundamentals
+- 📚 Learning Data Science & Machine Learning
+- 🔍 Exploring data analysis projects
+- 🐍 Developing Python programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/li-ethan/)
+
+---
+*Currently working on building my data science portfolio!*
