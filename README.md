@@ -1,14 +1,14 @@
 # Hello, I'm Ethan 👋
 
 ## About Me
-- 👨‍🏫 Computer Science Teaching Fellow at Chinese International School 🇭🇰
-- 🎓 BSc Computer Science from the University of St Andrews 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- 👨‍🏫 Computer Science Teaching Fellow @ Chinese International School 🇭🇰
+- 🎓 BSc Computer Science @ University of St Andrews 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- 🏫 Incoming MSc Data Science student @ City University of Hong Kong 🇭🇰
 - 📊 Interest in Data Science
 
 ## Current Focus
-- 👨‍🏫 Teaching Computer Science fundamentals
+- 👨‍🏫 Teaching Database Fundamentals
 - 📚 Learning Data Science & Machine Learning
-- 🔍 Exploring data analysis projects
 - 🐍 Developing Python programming skills
 
 ## Connect With Me
