@@ -7,9 +7,8 @@
 - 📊 Interest in Data Science
 
 ## Current Focus
-- 👨‍🏫 Teaching Database Fundamentals
+- 👨‍🏫 Teaching Database & Python Fundamentals
 - 📚 Learning Data Science & Machine Learning
-- 🐍 Developing Python programming skills
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/li-ethan/)
